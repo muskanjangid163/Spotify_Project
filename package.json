@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://Prizag.github.io/Spotify-Clone",
+  "homepage":"https://github.com/muskanjangid163/Spotify_Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
